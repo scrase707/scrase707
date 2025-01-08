@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## This is my personal repo used for a variety of things for me to learn.  
+
 <!--
 **scrase707/scrase707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
